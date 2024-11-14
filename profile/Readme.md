@@ -7,23 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshuopjs&label=Profile%20views&color=0dd3b2&style=flat-square" alt="harshuopjs" /> </p> 
 
 # 💫 About Me:
-🔭 I’m currently Pursuing B.Tech CSE and exploring various oportunity to get my dream projectt<br>🌱 I’m currently learning about AI, and BlockChain<br>
+🔭 I am a passionate and dedicated web developer with a strong foundation in HTML,CSS,JS,JSX,JAVA,Python. I have a strong background in web development and have experience in creating responsive and user-friendly websites.
+
+I am skilled in Cybersecurity and have experience in penetration testing and network security. It's been nearly a year since I started my journey in web development, and I am excited to continue my learning and growth as a Full stack Software Engineer.<br>
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=harshuopjs&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshuopjs&theme=radical&hide_border=false)<br/>
-### 🏆 Top COntributions
-![](https://github-contributor-stats.vercel.app/api?username=harshuopjs&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=harshuopjs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
- 
 # 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/engi.harsh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/harshuopjs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/real_harshuopjs)
