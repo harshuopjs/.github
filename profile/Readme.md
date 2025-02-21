@@ -2,8 +2,7 @@
 
 <h3 align="center">professional procrastinator & programmer
 </h3>
-<div align="center"><img alt="uwu"src="![image](https://github.com/user-attachments/assets/92fa1aa1-6c9a-4e93-a0f4-395ff4e4820b)
-"></div>
+![image](https://github.com/user-attachments/assets/92fa1aa1-6c9a-4e93-a0f4-395ff4e4820b)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshuopjs&label=Profile%20views&color=0dd3b2&style=flat-square" alt="harshuopjs" /> </p> 
 
