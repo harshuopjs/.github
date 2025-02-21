@@ -3,7 +3,7 @@
 <h3 align="center">professional procrastinator & programmer
 </h3>
 
-[![image](https://github.com/user-attachments/assets/adfd86a7-4fcb-468e-ab06-b3633f52dbe3)]
+[![image](https://github.com/user-attachments/assets/adfd86a7-4fcb-468e-ab06-b3633f52dbe3)](https://github.com/harshuopjs/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshuopjs&label=Profile%20views&color=0dd3b2&style=flat-square" alt="harshuopjs" /> </p> 
