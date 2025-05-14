@@ -1,39 +1,108 @@
-<h1 align="center">I'm Harsh Kumar Singh</h1>
 
-<h3 align="center">professional procrastinator & programmer
-</h3>
+# 💼 Harsh Kumar Singh
 
-[![image](https://github.com/user-attachments/assets/adfd86a7-4fcb-468e-ab06-b3633f52dbe3)](https://github.com/harshuopjs/)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshuopjs&label=Profile%20views&color=0dd3b2&style=flat-square" alt="harshuopjs" /> </p> 
-
-# 💫 About Me:
-🔭 I am a passionate and dedicated web developer with a strong foundation in HTML,CSS,JS,JSX,JAVA,Python. I have a strong background in web development and have experience in creating responsive and user-friendly websites.
-I am also a passionate Java Programmer and have made a lot of projects in java.
-I am skilled in Cybersecurity and have experience in penetration testing and network security. It's been nearly a year since I started my journey in web development, and I am excited to continue my learning and growth as a Full stack Software Engineer.<br>
-
-
-# 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/engi.harsh) ```engi.harsh``` 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/harshuopjs) ```harshuopjs``` 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/real_harshuopjs) ```real_harshuopjs```
-
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat-square&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=FFFFFF) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=flat-square&logo=windi-css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat-square&logo=Ionic&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=flat-square&logo=plex&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat-square&logo=Jellyfin&logoColor=00A4DC) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-# Contact Option
-
-E-mail me: harshuopjs@gmail.com
-Phone No. : 9971959892
-website: https://harshkumarsingh.software
-
-
+![Profile Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c)  
+📍 **Location:** Burari, Delhi-110084  
+📧 **Email:** harshblank@gmail.com  
+🌐 **Portfolio:** [www.harshkumarsingh.software](http://www.harshkumarsingh.software)
 
 ---
 
+## 🚀 About Me
 
+Innovative and driven **Full Stack Web Developer** with experience in building dynamic, real-time applications. Skilled in developing feature-rich platforms with modern tech stacks such as **React.js**, **Node.js**, **WebRTC**, and **MongoDB**.
 
+I’m passionate about using technology to empower users and drive social impact through creative and meaningful platforms.
 
+---
+
+## 🛠️ Skills
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,tailwind,js,html,css,mongodb,mysql,python,java,docker,git)
+
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Real-time Communication:** WebRTC, Socket.IO  
+- **Authentication:** JWT, OAuth  
+- **Deployment:** Vercel, Render, Docker  
+- **Other Tools:** REST APIs, Firebase, Git, GitHub  
+
+---
+
+## 🌟 Projects
+
+### 🎥 Kridavista
+> A dynamic video conferencing platform with social engagement.  
+> Features group video calls, games, chatrooms, and live streams.
+
+![Kridavista Preview](https://source.unsplash.com/featured/?videocall)
+
+- Built with **WebRTC**, **Socket.IO**, **React.js**, **Node.js**, **MongoDB**
+- Designed UI using **Tailwind CSS**
+- Deployed via **Docker** and **Vercel**
+
+---
+
+### 🫂 SaiMadad
+> An open-source web app fostering empathy and anonymous support.
+
+![SaiMadad Preview](https://source.unsplash.com/featured/?anonymous)
+
+- Safe space for anonymous conversations
+- AI-powered moderation and JWT authentication
+- Notifications using **Firebase**
+
+---
+
+### 💳 Bank Management System
+> A Java-based desktop app with integrated MySQL backend.
+
+### 👾 PacMan Game
+> Classic PacMan implemented in Java.
+
+### 🌐 Portfolio Website
+> Fully responsive site showcasing projects and skills.  
+> Visit: [www.harshkumarsingh.software](http://www.harshkumarsingh.software)
+
+---
+
+## 💼 Experience
+
+- **Web Developer Intern** @ *MsInterface Technologies Pvt Ltd*  
+- **Web Developer Intern** @ *Oasis Infobyte*  
+- **Cybersecurity Intern** @ *Prodigy Infotech*  
+
+---
+
+## 🎓 Education
+
+- **B.Tech in CSE**, GGSIPU (2023–2027)  
+- **Sr. Secondary**, Govt. Sarvodaya Bal Vidyalaya  
+- **Secondary**, Joseph and Mary Public School
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Professional Certificate (Coursera)  
+- Web Development Masterclass (Udemy)  
+- Java Programming
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Ranked **9th** in internal hackathon for **SIH 2024**  
+- 🥈 **Runner-up** in **VCT Hashtag** at JIMSEMTC
+
+---
+
+## 📫 Contact Me
+
+Feel free to connect for collaboration or opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com)
+
+---
