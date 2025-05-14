@@ -1,7 +1,6 @@
 
 # 💼 Harsh Kumar Singh
 
-![Profile Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c)  
 📍 **Location:** Burari, Delhi-110084  
 📧 **Email:** harshblank@gmail.com  
 🌐 **Portfolio:** [www.harshkumarsingh.software](http://www.harshkumarsingh.software)
