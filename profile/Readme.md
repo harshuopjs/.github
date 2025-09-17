@@ -21,11 +21,11 @@ I’m passionate about using technology to empower users and drive social impact
 
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
+- **Database:** MongoDB, MySQL, PostgreSQL  
 - **Real-time Communication:** WebRTC, Socket.IO  
-- **Authentication:** JWT, OAuth  
-- **Deployment:** Vercel, Render, Docker  
-- **Other Tools:** REST APIs, Firebase, Git, GitHub  
+- **Authentication:** JWT, OAuth, Firebase  
+- **Deployment:** Docker  
+- **Other Tools:** REST APIs, Firebase, Git, GitHub, GitLab
 
 ---
 
@@ -39,7 +39,7 @@ I’m passionate about using technology to empower users and drive social impact
 
 - Built with **WebRTC**, **Socket.IO**, **React.js**, **Node.js**, **MongoDB**
 - Designed UI using **Tailwind CSS**
-- Deployed via **Docker** and **Vercel**
+- Deployed via **Docker**
 
 ---
 
@@ -63,14 +63,6 @@ I’m passionate about using technology to empower users and drive social impact
 ### 🌐 Portfolio Website
 > Fully responsive site showcasing projects and skills.  
 > Visit: [www.harshkumarsingh.software](http://www.harshkumarsingh.software)
-
----
-
-## 💼 Experience
-
-- **Web Developer Intern** @ *MsInterface Technologies Pvt Ltd*  
-- **Web Developer Intern** @ *Oasis Infobyte*  
-- **Cybersecurity Intern** @ *Prodigy Infotech*  
 
 ---
 
