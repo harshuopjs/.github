@@ -1,99 +1,135 @@
+## 💼 Harsh Kumar Singh
 
-# 💼 Harsh Kumar Singh
-
-📍 **Location:** Burari, Delhi-110084  
-📧 **Email:** harshblank@gmail.com  
-🌐 **Portfolio:** [www.harshkumarsingh.software](http://www.harshkumarsingh.software)
+📍 **Burari, Delhi – 110084**
+📧 **[founder@kridavista.in](mailto:founder@kridavista.in)**
+🌐 **Portfolio:** yantraworks.cloud
 
 ---
 
 ## 🚀 About Me
 
-Innovative and driven **Full Stack Web Developer** with experience in building dynamic, real-time applications. Skilled in developing feature-rich platforms with modern tech stacks such as **React.js**, **Node.js**, **WebRTC**, and **MongoDB**.
+Passionate **Full Stack Developer** and B.Tech CSE student (2023–2027) focused on building scalable, real-time web platforms. Experienced in developing interactive applications using modern technologies such as **React, Node.js, WebRTC, and cloud-ready architectures**.
 
-I’m passionate about using technology to empower users and drive social impact through creative and meaningful platforms.
-
----
-
-## 🛠️ Skills
-
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,tailwind,js,html,css,mongodb,mysql,python,java,docker,git)
-
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL, PostgreSQL  
-- **Real-time Communication:** WebRTC, Socket.IO  
-- **Authentication:** JWT, OAuth, Firebase  
-- **Deployment:** Docker  
-- **Other Tools:** REST APIs, Firebase, Git, GitHub, GitLab
+I enjoy creating products that blend technology, creativity, and social impact—turning ideas into meaningful digital experiences.
 
 ---
 
-## 🌟 Projects
+## 🛠️ Technical Skills
 
-### 🎥 Kridavista
-> A dynamic video conferencing platform with social engagement.  
-> Features group video calls, games, chatrooms, and live streams.
+**Frontend:**
+React.js, Tailwind CSS, HTML5, CSS3, JavaScript
 
-![Kridavista Preview](https://source.unsplash.com/featured/?videocall)
+**Backend:**
+Node.js, Express.js, REST APIs
 
-- Built with **WebRTC**, **Socket.IO**, **React.js**, **Node.js**, **MongoDB**
-- Designed UI using **Tailwind CSS**
-- Deployed via **Docker**
+**Databases:**
+MongoDB, MySQL, PostgreSQL, SQLite
+
+**Real-time & Communication:**
+WebRTC, Socket.IO
+
+**Authentication & Security:**
+JWT, OAuth, Firebase Auth
+
+**DevOps & Tools:**
+Docker, Git, GitHub, GitLab, Linux (Arch)
+
+**Languages:**
+JavaScript, Python, Java, SQL
+
+---
+
+## 🌟 Key Projects
+
+### 🎥 [Kridavista](https://kridavista.in)
+
+**Founder & Developer**
+A next-generation social video conferencing platform combining communication, entertainment, and collaboration.
+
+**Core Features:**
+
+* Real-time group video calls
+* Multiplayer games inside rooms
+* Chatrooms and live streaming
+* Leaderboards, subscriptions, and admin panel
+
+**Tech Stack:**
+React.js, Node.js, WebRTC, Socket.IO, MongoDB, Tailwind CSS, Docker
 
 ---
 
 ### 🫂 SaiMadad
-> An open-source web app fostering empathy and anonymous support.
 
-![SaiMadad Preview](https://source.unsplash.com/featured/?anonymous)
+**Open-source anonymous support platform**
 
-- Safe space for anonymous conversations
-- AI-powered moderation and JWT authentication
-- Notifications using **Firebase**
+**Highlights:**
+
+* Anonymous chatrooms and direct messaging
+* Topic-based help threads
+* AI-powered moderation
+* Firebase notifications
+* Secure JWT authentication
+
+**Tech Stack:**
+Node.js, React.js, MongoDB, Firebase
 
 ---
 
 ### 💳 Bank Management System
-> A Java-based desktop app with integrated MySQL backend.
+
+Java desktop application with MySQL backend supporting account operations and transaction management.
+
+---
 
 ### 👾 PacMan Game
-> Classic PacMan implemented in Java.
+
+Classic PacMan game built in Java using object-oriented principles.
+
+---
 
 ### 🌐 Portfolio Website
-> Fully responsive site showcasing projects and skills.  
-> Visit: [www.harshkumarsingh.software](http://www.harshkumarsingh.software)
+
+Personal responsive portfolio showcasing projects and technical work.
+**Link:** [yantraworks.cloud](http://yantraworks.cloud)
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in CSE**, GGSIPU (2023–2027)  
-- **Sr. Secondary**, Govt. Sarvodaya Bal Vidyalaya  
-- **Secondary**, Joseph and Mary Public School
+**B.Tech in Computer Science & Engineering**
+GGSIPU (2023–2027)
+
+**Senior Secondary Education**
+Govt. Sarvodaya Bal Vidyalaya
+
+**Secondary Education**
+Joseph and Mary Public School
 
 ---
 
 ## 📜 Certifications
 
-- Google Cybersecurity Professional Certificate (Coursera)  
-- Web Development Masterclass (Udemy)  
-- Java Programming
+* Google Cybersecurity Professional Certificate – Coursera
+* Web Development Masterclass – Udemy
+* Java Programming Certification
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Ranked **9th** in internal hackathon for **SIH 2024**  
-- 🥈 **Runner-up** in **VCT Hashtag** at JIMSEMTC
+
+* Ranked **1St** in internal hackathon for **Smart India Hackathon 2025**
+* Ranked **9th** in internal hackathon for **Smart India Hackathon 2024**
+* **Runner-up** – VCT Hashtag at JIMSEMTC ( Team Warden )
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-Feel free to connect for collaboration or opportunities!
+Open to internships, collaborations, and innovative projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com)
+**LinkedIn:** linkedin.com/in/engi-harsh
+**GitHub:** github.com/harshuopjs
+**Portfolio:** yantraworks.cloud
 
 ---
