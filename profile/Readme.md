@@ -2,7 +2,7 @@
 
 📍 **Burari, Delhi – 110084**
 📧 **[founder@kridavista.in](mailto:founder@kridavista.in)**
-🌐 **Portfolio:** yantraworks.cloud
+🌐 **Portfolio:** [yantraworks.cloud](https://yantraworks.cloud)
 
 ---
 
